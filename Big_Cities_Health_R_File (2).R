@@ -1,5 +1,4 @@
-# MSBX 5415 Group Project
------------------------------------------------------------------------------------------------------------------
+
 rm(list = ls())
 setwd("/Users/jeremygreen/Desktop/")
 bigCityHealth <- read.csv("Big_Cities_Health_Data_Inventory.csv", stringsAsFactors = TRUE)
